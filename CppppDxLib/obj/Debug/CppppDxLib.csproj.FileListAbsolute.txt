@@ -1,0 +1,6 @@
+d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\bin\Debug\CppppDxLib.exe.config
+d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\obj\Debug\CppppDxLib.csprojResolveAssemblyReference.cache
+d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\bin\Debug\CppppDxLib.exe
+d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\bin\Debug\CppppDxLib.pdb
+d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\obj\Debug\CppppDxLib.exe
+d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\obj\Debug\CppppDxLib.pdb
