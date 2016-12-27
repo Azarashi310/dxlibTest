@@ -7,8 +7,9 @@ using DxLibDLL;
 
 namespace CppppDxLib
 {
-    class GameMainManager
+    class GameMainManager:template.Template
     {
+        [STAThread]
         public static void Main()
         {
             GameMainManager Game = new GameMainManager();
@@ -22,8 +23,17 @@ namespace CppppDxLib
 
         private void GameMain()
         {
+            module.KeyCodeManager keyInput = new module.KeyCodeManager();
+            keyInput.initKeyCode();
             DX.DrawPixel(320, 240, DX.GetColor(255, 255, 255));
-            DX.WaitKey();
+            
+            while(true){
+                if (DX.ProcessMessage() == -1)
+                {
+                    break;
+                }
+                keyInput.getPressKeyCode();
+            }
             GameEnd();
         }
 

@@ -39,6 +39,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GameMainManager.cs" />
+    <Compile Include="module\debug\Debug.cs" />
+    <Compile Include="module\input\KeyCodeManager.cs" />
+    <Compile Include="template\Template.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="DxLibDotNet, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">

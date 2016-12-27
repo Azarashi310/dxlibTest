@@ -4,3 +4,9 @@ d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\bin\Debug\Cpppp
 d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\bin\Debug\CppppDxLib.pdb
 d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\obj\Debug\CppppDxLib.exe
 d:\my document\visual studio 2013\Projects\CppppDxLib\CppppDxLib\obj\Debug\CppppDxLib.pdb
+D:\My document\GitHub\dxlibTest\CppppDxLib\bin\Debug\CppppDxLib.exe.config
+D:\My document\GitHub\dxlibTest\CppppDxLib\obj\Debug\CppppDxLib.exe
+D:\My document\GitHub\dxlibTest\CppppDxLib\obj\Debug\CppppDxLib.pdb
+D:\My document\GitHub\dxlibTest\CppppDxLib\obj\Debug\CppppDxLib.csprojResolveAssemblyReference.cache
+D:\My document\GitHub\dxlibTest\CppppDxLib\bin\Debug\CppppDxLib.exe
+D:\My document\GitHub\dxlibTest\CppppDxLib\bin\Debug\CppppDxLib.pdb
