@@ -10,6 +10,18 @@ namespace CppppDxLib.template
     class Template
     {
         //debug
-        public module.debug.Debug debug = new module.debug.Debug();
+        public module.debug.Debug debug;
+        //keycode
+        public module.KeyCodeManager keycode;
+
+        public void initDebugModule()
+        {
+            debug = new module.debug.Debug();
+        }
+
+        public void initKeyCodeModule()
+        {
+            keycode = new module.KeyCodeManager();
+        }
     }
 }

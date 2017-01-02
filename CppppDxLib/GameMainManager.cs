@@ -23,8 +23,8 @@ namespace CppppDxLib
 
         private void GameMain()
         {
-            module.KeyCodeManager keyInput = new module.KeyCodeManager();
-            keyInput.initKeyCode();
+            //module.KeyCodeManager keyInput = new module.KeyCodeManager();
+            //keyInput.initKeyCode();
             DX.DrawPixel(320, 240, DX.GetColor(255, 255, 255));
             
             while(true){
@@ -32,7 +32,7 @@ namespace CppppDxLib
                 {
                     break;
                 }
-                keyInput.getPressKeyCode();
+                //keyInput.getPressKeyCode();
             }
             GameEnd();
         }
